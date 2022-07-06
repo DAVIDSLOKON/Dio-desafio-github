@@ -1,0 +1,3 @@
+# Link para download do Git :school_satchel:
+
+https://git-scm.com/downloads
